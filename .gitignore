@@ -29,3 +29,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### H2 ###
+testdb.mv.db
+testdb.trace.db
